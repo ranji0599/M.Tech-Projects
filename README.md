@@ -28,7 +28,7 @@ Hardware
 Getting Started
 Clone repository:
 
-git clone https:
+git clone https:https://github.com/ranji0599/Bed-Sores-Monitoring-Prevention
 
     Install Thonny IDE and ESP32 support
     Wire components per circuit diagram
