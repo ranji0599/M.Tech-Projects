@@ -1,5 +1,7 @@
 Smart Bed for Pressure Ulcer Prevention
 
+License: MIT Status: Development
+
 IoT-enabled smart bed system that prevents pressure ulcers through automated monitoring and intervention.
 Problem
 
@@ -42,6 +44,10 @@ Project Structure
     Circuit Design: KiCAD files in Hardware/circuit-design/
     3D Casing: Fusion360 models in Hardware/casing/
     Documentation: Project docs in Docs/ folder
+
+License
+
+MIT License - see LICENSE file
 
 
 ⚠️ Disclaimer: Research prototype for educational purposes. Clinical validation required before medical use.
